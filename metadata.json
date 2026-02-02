@@ -1,0 +1,7 @@
+{
+  "name": "REFLECTRA",
+  "description": "An AI-powered Smart Virtual Trial Room & Sustainable Fashion Platform. Reflect Yourself. Fit Perfectly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
